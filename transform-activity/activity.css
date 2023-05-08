@@ -1,9 +1,4 @@
 main {
-transform: rotate(-.02turn) 
-skew(30deg, -10deg)
-scale(1.5,1);
-}
-main > div{
-    transform: skew(, 5deg)
-    scale(0)
+transform:  
+skewy(350deg)
 }
